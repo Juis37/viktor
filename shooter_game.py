@@ -107,7 +107,7 @@ while g:
         monsters.draw(window)
         monsters.update()
         
-        
+       
         cl.tick(FPS)
 
 
